@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+colorama
+openpyxl       # for Excel export
+python-docx    # for Word export
+reportlab      # for PDF export
